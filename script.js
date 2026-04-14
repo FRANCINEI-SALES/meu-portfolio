@@ -17,6 +17,12 @@ meusProjetos.forEach(projeto => {
         <p>${projeto.descricao}</p>
         <a href="${projeto.link}" target="_blank">Ver mais</a>
     `;
+
+    card.innerHTML = `
+        <h4>${projeto.titulo}</h4>
+        <p>${projeto.descricao}</p>
+        <a href="${projeto.link}" target="_blank">Ver mais</a>
+    `;
     
     container.appendChild(card);
 });
