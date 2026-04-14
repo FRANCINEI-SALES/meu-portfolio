@@ -1,7 +1,13 @@
 const meusProjetos = [
     {
         titulo: "SaborExpress - Aplicativo de Vendas de Bolos e Salgados",
-        descricao: "Oferece uma plataforma intuitiva que simplifica a escolha e compra de bolos e salgados artesanais, unindo a conveniência do atendimento digital à excelência de produtos de qualidade para o dia a dia ou eventos.",
+        descricao: "O SaborExpress é um aplicativo de vendas de bolos e salgados que conecta clientes a uma variedade de opções saborosas e práticas, oferecendo uma plataforma simples e intuitiva para realizar pedidos, acompanhar entregas e garantir conveniência no acesso a produtos artesanais de qualidade, ideal para quem busca rapidez, praticidade e sabor no dia a dia.",
+        link: "#"
+    },
+
+    {
+        titulo: "Identidade Visual & Vetorização",
+        descricao: "Criação de materiais gráficos e manipulação de imagens utilizando técnicas avançadas de design digital.",
         link: "#"
     },
 ];
